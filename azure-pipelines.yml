@@ -8,7 +8,7 @@ trigger:
 
 pool:
   new-pool-24
-
+  
 steps:
 - task: NodeTool@0
   inputs:
