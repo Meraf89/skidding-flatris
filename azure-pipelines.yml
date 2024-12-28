@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  new-pool-24
+  Default
 
 steps:
 - task: NodeTool@0
